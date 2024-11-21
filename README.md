@@ -14,6 +14,8 @@ You can run and edit the algorithms or contribute to them using [Gitpod.io](http
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](http://gitpod.io/#https://github.com/TheAlgorithms/Jupyter)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/TheAlgorithms/Jupyter)
+
 ## Contributing New Algorithms
 	
 * Make your pull requests to be **specific** and **focused**. Instead of contributing "several algorithms" all at once contribute them all one by one separately (i.e. one pull request for "Logistic Regression", another one for "K-Means", and so on).
